@@ -104,3 +104,17 @@ body {
     font-size: 13px;
     text-decoration: none;
 }
+
+.card-body-description-column-right a:hover {
+    color: #756bf1;
+    text-decoration: none;
+}
+
+.card-body-button-proceed:hover {
+    background-color: #756bf1;
+    cursor: pointer;
+}
+
+.card-body-button-a:hover {
+    color:hsl(223, 47%, 23%)
+}
